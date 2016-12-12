@@ -6,7 +6,7 @@ Project | Description | Technologies
 --- | --- | ---
 [Kudomon](https://github.com/hanfak/kudomon) | A commaned line pokemon go clone | Ruby, Rspec, Coveralls
 [CookingBot](https://github.com/hanfak/cooking-bot-ruby) | A Telegram bot, where user can interact with bot to get recipe suggestions from external website | Ruby, Telegram, Telegram-bot-ruby
-[Restful API] | Web application which makes calls a database with a RESTful interface | Java 1.8, Tomcat, Eclipse J2EE, Jersey, MongodDB, Jersey testing framework, Junit, Hamcrest, Maven
+[Restful API](https://github.com/hanfak/RESTful-API-Json-java) | Web application which makes calls a database with a RESTful interface | Java 1.8, Tomcat, Eclipse J2EE, Jersey, MongodDB, Jersey testing framework, Junit, Hamcrest, Maven
 [Login Web Application](https://github.com/hanfak/java-web-app-user-auth) |Spiked web app where a user can sign up and login | Java 1.8, Tomcat, MySQL, MySQL connector, Servlet API, Eclipse J2EE
 [Battleship](https://github.com/hanfak/battleships-ruby) | A game to play battleships with two players | Ruby, Rspec, Coveralls, Capybara
 [Discount for vendors](https://github.com/hanfak/discount-api) | | Ruby, Rspec
