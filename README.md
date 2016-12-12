@@ -4,6 +4,13 @@ Here is a list of all the projects that I have done, with links to their reposit
 
 Project | Description | Technologies
 --- | --- | ---
+[Kudomon](https://github.com/hanfak/kudomon) | A commaned line pokemon go clone | Ruby, Rspec, Coveralls
+[CookingBot](https://github.com/hanfak/cooking-bot-ruby) | A Telegram bot, where user can interact with bot to get recipe suggestions from external website | Ruby, Telegram, Telegram-bot-ruby
+[Restful API] | Web application which makes calls a database with a RESTful interface | Java 1.8, Tomcat, Eclipse J2EE, Jersey, MongodDB, Jersey testing framework, Junit, Hamcrest, Maven
+[Login Web Application](https://github.com/hanfak/java-web-app-user-auth) |Spiked web app where a user can sign up and login | Java 1.8, Tomcat, MySQL, MySQL connector, Servlet API, Eclipse J2EE
+[Battleship](https://github.com/hanfak/battleships-ruby) | A game to play battleships with two players | Ruby, Rspec, Coveralls, Capybara
+[Discount for vendors](https://github.com/hanfak/discount-api) | | Ruby, Rspec
+[Sentence Filter](https://github.com/hanfak/sentence-filter-groovy) | Filters out words that contain words that are to be edited with their vowels missing | Groovy, Gradle, Spock
 [Retail Shop](https://github.com/hanfak/frontEnd-checkout-app) | This is a front end single page pure javascript (no frameworks or libraries) app, with no database persistence. Built using TDD. Users can view list of items, add or remove to cart, apply voucher and view total. You can play around with it [here](https://hanfak.github.io/frontEnd-checkout-app/public/) | Javascript, Jasmine, HTML5, CSS3,
 [Checkout App](https://github.com/hanfak/checkout-tech-test) | Software that allows users to scan items, apply discounts and shows the total. Test driven. Business logic only | Ruby, Rspec, Capybara
 [HTML, CSS, Javascript demo website](https://hanfak.github.io/css-examples/) | This is a website, to practise skills in using HTML5, CSS and Javascript. Examples of work include creating a debounce function, using pure javascript to access 4square api, to do app, Jquery to drag and drop items | HTML5, CSS3, Javascript, JQuery
@@ -13,7 +20,7 @@ Project | Description | Technologies
 [Pathfinder algorithm](https://github.com/hanfak/Learning-Algorithms-Pathfinding) | algorithm meetup at 'Lost My Name', implementing the [pathfinder algorithm](https://en.wikipedia.org/wiki/Pathfinding). | Javascript
 [Bank](https://github.com/hanfak/bank_tech_test) | Software that mimics funcionality of a bank. Test Driven. Use of MVC pattern. User can withdraw or deposit cash, print statement. | Ruby, Rspec
 [Static rails app](https://github.com/hanfak/static-rails-test-css-js) | Rails app, with static pages. No models| Rails, Capybara
-Airport<br> [Ruby Version](https://github.com/hanfak/airport_challenge) <br> [Javascript Version](https://github.com/hanfak/js-airport) <br> [Python version](https://github.com/hanfak/airport-python) <br> [Groovy version](https://github.com/hanfak/airport-groovy) | Weekend challenge at Makers Academy. Software that controls the flow of airplanes. Test driven. Used to help me learn other languages and their testing frameworks (techniques such as mocking, stubbing, spies, errors)<br>Javscript version was pair programmed | Ruby version: Ruby, Rspec <br> Javascript version: Javascript, Jasmine <br> Python version: Python, Unittest, Nosetest <br> Groovy version: Groovy, Gradle, Spock
+Airport<br> <br>[Ruby Version](https://github.com/hanfak/airport_challenge) <br><br> [Javascript Version](https://github.com/hanfak/js-airport) <br><br> [Python version](https://github.com/hanfak/airport-python) <br><br> [Groovy version](https://github.com/hanfak/airport-groovy) <br><br> [PHP](https://github.com/hanfak/airport-php) <br><br> [Java](https://github.com/hanfak/airport-java-gradle) | Weekend challenge at Makers Academy. Software that controls the flow of airplanes. Test driven. Used to help me learn other languages and their testing frameworks (techniques such as mocking, stubbing, spies, errors)<br><br>Javscript version was pair programmed | Ruby version:<br><br> Ruby, Rspec <br><br> Javascript version: Javascript, Jasmine <br><br> Python version: Python, Unittest, Nosetest <br><br> Groovy version: Groovy, Gradle, Spock <br><br> PHP, phpunit, composer <br><br> Java 1.8, Junit, Mockito, Gradle
 [Instagram Clone](https://github.com/hanfak/Instagram-clone) | A small Instagram clone, functionality includes users, posting images and commenting. |  Ruby, Rails, Postgres /w ActiveRecord, HTML5(HAML), CSS3, RSpec, Capybara
 [Bowling Kata](https://github.com/hanfak/bowling-challenge) | | Javascript, Jasmine
 [Chitter](https://github.com/hanfak/chitter-challenge) | |  Ruby, Sinatra, Capybara, Rspec, Datamapper, Bcrypt, PostGreSQL
@@ -35,6 +42,7 @@ Project | Description | Technologies
 
 Project | Description | Technologies
 --- | --- | ---
+[Github comparison](https://github.com/hanfak/github-battle-react) | Using Github api to get repo details to compare | React, Javascript, Axios, Babel, Webpack
 [Todo app](https://github.com/hanfak/MEN-stack-CRUD) | Youtube tutorial. Apply CRUD operations to full stack javascript app. | NodeJS, ExpressJS, MongoDB, Mongoose, handlebars, body parser
 [BBC schedule app](https://github.com/hanfak/bbc-schedule-ajax-spiked) | Codebar tutorial |
 [Github user search](https://github.com/hanfak/github-user-search-spiked) | Codebar tutorial|
