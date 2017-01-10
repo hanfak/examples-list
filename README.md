@@ -4,6 +4,7 @@ Here is a list of all the projects that I have done, with links to their reposit
 
 Project | Description | Technologies
 --- | --- | ---
+[CRUD app](https://github.com/hanfak/Django-crud-spiked) | A web app, RESTful api | Django, python3, sqlite3
 [Kudomon](https://github.com/hanfak/kudomon) | A commaned line pokemon go clone | Ruby, Rspec, Coveralls
 [CookingBot](https://github.com/hanfak/cooking-bot-ruby) | A Telegram bot, where user can interact with bot to get recipe suggestions from external website | Ruby, Telegram, Telegram-bot-ruby
 [Restful API](https://github.com/hanfak/RESTful-API-Json-java) | Web application which makes calls a database with a RESTful interface | Java 1.8, Tomcat, Eclipse J2EE, Jersey, MongodDB, Jersey testing framework, Junit, Hamcrest, Maven
